@@ -66,7 +66,7 @@ type streamResponse struct {
 }
 
 type uuidResponse struct {
-	UUID string `json:"uuid"`
+	UUID string `json:"uuid-go-httpbin"`
 }
 
 type bearerResponse struct {
